@@ -1,4 +1,4 @@
-class Oopsuc3{
+class oopsbannerapp{
 	public static void main(String[] args) {
 	System.out.println(String.join(" ", " **** ", " **** ", " ****** ", " ******** "));
 	System.out.println(String.join(" ", " *  * ", " *  * ", " *    * ", " *        "));
@@ -8,4 +8,4 @@ class Oopsuc3{
 	System.out.println(String.join(" ", " *  * ", " *  * ", " *      ", "        * "));
 	System.out.println(String.join(" ", " **** ", " **** ", " *      ", " ******** "));
 	}
-}       
+}
